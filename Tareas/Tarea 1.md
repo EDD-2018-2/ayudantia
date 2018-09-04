@@ -26,15 +26,13 @@ El orden de operaciones es definido dentro de la estructura. Una cosa a tener pr
 5 + (( 1 + 2) * 4) - 3 <=> 5 1 2 + 4 * + 3 -
 ```
 
-Su tarea consiste en implementar ambos algoritmos utilizando una estructura de datos adecuada.
-
+Su tarea consiste en implementar ambos algoritmos utilizando una estructura de datos adecuada (pilas o colas). Estos algoritmos deberán soportar cualquier operación matemática en notación polaca o polaca inversa (según sea el caso), traducir la operación a una expresión algebraica y calcular su valor.
 
 ## Entrega
 
 Fecha límite: Viernes 14 de Septiembre a las 10:00 hrs.
 
 Para la entrega de la tarea deberá utilizar Github. Para esto deberán ingresar en ` https://github.com/EDD-2018-2 ` y seleccionar su repositorio, al hacer click encontrará los comandos con los cuales podrá comenzar a trabajar en su repositorio. Dicho repositorio deberá contener cada uno de los archivos de código en formato `.py` dentro de la carpeta `Tarea 1`.
-
 
 ## Recomendaciones
 
