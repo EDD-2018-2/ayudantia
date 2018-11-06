@@ -12,7 +12,8 @@ class PriorityQueue:
     
     def empty(self):
         return self.head == None
-     def push(self, data, priority):
+        
+    def push(self, data, priority):
         node = Node(data, priority)
         if self.empty():
             self.head = node
