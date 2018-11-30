@@ -57,3 +57,4 @@ elemento o dos.
 
 1. Implemente la clase `Nodo` para un árbol 2-3.
 2. Implemente un árbol 2-3 con métodos para insertar, buscar y eliminar elementos.
+3. Genere un árbol 2-3 al insertar los elementos 30-2-15-63-65-1-0-14
